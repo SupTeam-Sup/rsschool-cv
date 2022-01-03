@@ -1,3 +1,3 @@
 # rsschool-cv
-<p>https://GITHUB-USERNAME.github.io/rsschool-cv/cv</p>
-<p>https://GITHUB-USERNAME.github.io/rsschool-cv/</p>
+<p>https://github.com/SupTeam-Sup/rsschool-cv/cv</p>
+<p>https://github.com/SupTeam-Sup/rsschool-cv/</p>
